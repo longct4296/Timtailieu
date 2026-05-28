@@ -326,7 +326,7 @@
 <body>
 
 <div class="hero" id="hero">
-  <div class="logo">Template miễn phí </div>
+  <div class="logo">☕ Template Cà Phê</div>
   <h1 class="tagline">Tìm tài liệu bạn cần</h1>
   <p class="sub">Kho template miễn phí cho chủ quán cà phê — menu, nhân sự, tài chính, vận hành</p>
 
@@ -384,7 +384,7 @@
 <div class="toast" id="toast">⬇ Đang mở file tải xuống...</div>
 
 <script>
-const AFFILIATE_URL = 'https://s.shopee.vn/BQgUPfUtk';
+const AFFILIATE_URL = 'https://shope.ee/THAY_LINK_AFF_CUA_BAN';
 
 let templates = [];
 let currentItem = null;
@@ -394,7 +394,7 @@ const fileBg    = { Excel: '', PDF: 'pdf', Word: 'word' };
 
 async function loadTemplates() {
   try {
-    const res = await fetch('templates.json');
+    const res = await fetch('./templates.json?' + Date.now());
     templates = await res.json();
   } catch(e) {
     templates = [];
