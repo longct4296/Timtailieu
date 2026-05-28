@@ -10,11 +10,47 @@
   },
   {
     "id": 2,
-    "name": "Check List ca mở quán",
-    "keywords": ["check list", "check list mở quán", "khai trương", "mở quán"],
-    "type": "Excel",
-    "size": "50 KB",
+    "name": "Quy trình pha chế chuẩn",
+    "keywords": ["pha chế", "quy trình", "công thức", "barista"],
+    "type": "PDF",
+    "size": "2.1 MB",
     "category": "Vận hành",
-    "drive_url": "https://docs.google.com/spreadsheets/d/1oOTZmiMohp0QgYNhos5n2gx-Hkuiqeo7p4dEzfoSj7Q/edit?usp=sharing"
+    "drive_url": "https://drive.google.com/uc?export=download&id=THAY_FILE_ID_2"
+  },
+  {
+    "id": 3,
+    "name": "Bảng chấm công nhân viên",
+    "keywords": ["chấm công", "nhân viên", "lương", "giờ làm"],
+    "type": "Excel",
+    "size": "35 KB",
+    "category": "Nhân sự",
+    "drive_url": "https://drive.google.com/uc?export=download&id=THAY_FILE_ID_3"
+  },
+  {
+    "id": 4,
+    "name": "Checklist khai trương quán",
+    "keywords": ["khai trương", "checklist", "mở quán", "chuẩn bị"],
+    "type": "Word",
+    "size": "120 KB",
+    "category": "Vận hành",
+    "drive_url": "https://drive.google.com/uc?export=download&id=THAY_FILE_ID_4"
+  },
+  {
+    "id": 5,
+    "name": "Báo cáo doanh thu tháng",
+    "keywords": ["doanh thu", "báo cáo", "tài chính", "tháng"],
+    "type": "Excel",
+    "size": "89 KB",
+    "category": "Tài chính",
+    "drive_url": "https://drive.google.com/uc?export=download&id=THAY_FILE_ID_5"
+  },
+  {
+    "id": 6,
+    "name": "Hợp đồng nhân viên part-time",
+    "keywords": ["hợp đồng", "part-time", "nhân viên", "thời vụ"],
+    "type": "Word",
+    "size": "65 KB",
+    "category": "Nhân sự",
+    "drive_url": "https://drive.google.com/uc?export=download&id=THAY_FILE_ID_6"
   }
 ]
