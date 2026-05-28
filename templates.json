@@ -3,14 +3,18 @@
     "id": 1,
     "name": "Menu mẫu theo mùa",
     "keywords": ["menu", "mùa", "đồ uống", "giá"],
+    "type": "Excel",
+    "size": "48 KB",
     "category": "Menu & Giá",
     "drive_url": "https://drive.google.com/uc?export=download&id=THAY_FILE_ID_1"
   },
   {
     "id": 2,
     "name": "Check List ca mở quán",
-    "keywords": ["check list", "check list mở quán"],
+    "keywords": ["check list", "check list mở quán", "khai trương", "mở quán"],
+    "type": "Excel",
+    "size": "50 KB",
     "category": "Vận hành",
     "drive_url": "https://docs.google.com/spreadsheets/d/1oOTZmiMohp0QgYNhos5n2gx-Hkuiqeo7p4dEzfoSj7Q/edit?usp=sharing"
-  },
+  }
 ]
