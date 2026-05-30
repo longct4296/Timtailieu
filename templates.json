@@ -19,12 +19,12 @@
   },
   {
     "id": 3,
-    "name": "Bảng chấm công nhân viên",
-    "keywords": ["chấm công", "nhân viên", "lương", "giờ làm"],
+    "name": "Quy tắc ứng xử khi giao tiếp khách hàng",
+    "keywords": ["Quy tắc ứng xử", "Giao tiếp khách hàng"],
     "type": "Excel",
     "size": "35 KB",
     "category": "Nhân sự",
-    "drive_url": "https://drive.google.com/uc?export=download&id=THAY_FILE_ID_3"
+    "drive_url": "https://docs.google.com/document/d/1kVxWxSNZRNI7ZYblXnAG5BIeGjJuUPXS/edit?usp=sharing&ouid=102197250645984320223&rtpof=true&sd=true"
   },
   {
     "id": 4,
