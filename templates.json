@@ -10,12 +10,12 @@
   },
   {
     "id": 2,
-    "name": "Quy trình pha chế chuẩn",
-    "keywords": ["pha chế", "quy trình", "công thức", "barista"],
-    "type": "PDF",
+    "name": "Bảng tính COST món",
+    "keywords": ["Cost, tinh cost"],
+    "type": "Excel",
     "size": "2.1 MB",
     "category": "Vận hành",
-    "drive_url": "https://drive.google.com/uc?export=download&id=THAY_FILE_ID_2"
+    "drive_url": "https://docs.google.com/spreadsheets/d/1YEmjY9567kqDx8hi4hmnMTUatTZr3bxb/edit?usp=sharing&ouid=102197250645984320223&rtpof=true&sd=true"
   },
   {
     "id": 3,
