@@ -107,6 +107,15 @@
     "category": "Vận hành",
     "drive_url": "https://docs.google.com/spreadsheets/d/1T4DerlG53ri8v0LwJm2amM6_wFEqu6ftlz-51DPtx54/edit?usp=sharing"
   },
+              {
+    "id": 15,
+    "name": "Lộ trình 5 tuần tự học TOEIC",
+    "keywords": ["lotrinh5tuantuhoctoeic"],
+    "type": "Excel",
+    "size": "89 KB",
+    "category": "Học tiếng anh",
+    "drive_url": "https://docs.google.com/spreadsheets/d/1bptJ-Z5C8gXERNd0P9ymjR9a0u7uehH_0bAAC1h7kTg/edit?gid=0#gid=0"
+  },
   {
     "id": 6,
     "name": "Khóa học IELTS Ngọc Bách",
