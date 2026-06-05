@@ -72,13 +72,13 @@
     "drive_url": "https://drive.google.com/drive/folders/1tKbb5b1GJdBntI80hTsVEnW7rXrWv3qq"
   },
         {
-    "id": 10,
-    "name": "Bài tập dịch Việt Trung",
-    "keywords": ["Baitapdichviettrung"],
+    "id": 11,
+    "name": "Quản lý dự án",
+    "keywords": ["quanlyduan"],
     "type": "Excel",
     "size": "89 KB",
-    "category": "Học tiếng Trung",
-    "drive_url": "https://drive.google.com/drive/folders/1YRRY8tSnSKFRicsIGSf7RONOr6PdGEKd"
+    "category": "Vận hành",
+    "drive_url": "https://drive.google.com/drive/folders/1SI1swfxnvXWNI42hcqzoJS5cYg087jmd"
   },
         {
     "id": 11,
