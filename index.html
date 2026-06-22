@@ -388,8 +388,7 @@ Thử tìm:
 <button class="popup-close" onclick="closePopup()">✕</button>
 </div>
 <div class="popup-body">
-      <p>Lưu ý Mở tài liệu bằng trình duyệt để không bị gián đoạn. Tài liệu này miễn phí 100%. Bạn có thể ủng hộ mình bằng cách ghé xem 1 sản phẩm trên Shopee trước nhé 🙏</p>
-      <p>Lưu ý tài liệu này miễn phí 100% bạn sẽ được chuyển sang Shopee trước khi xem tài liệu. Bạn có thể ủng hộ mình bằng cách ghé xem 1 sản phẩm trên Shopee trước nhé 🙏</p>
+<p>Lưu ý Mở tài liệu bằng trình duyệt để không bị gián đoạn. Tài liệu này miễn phí 100%. Bạn có thể ủng hộ mình bằng cách ghé xem 1 sản phẩm trên Shopee trước nhé 🙏</p>
 <a class="aff-btn" id="affLink" href="#" target="_blank" rel="noopener">
 <div class="aff-logo">🛒</div>
 <div class="aff-text">
@@ -490,12 +489,12 @@ showToast();
 }
 
 function doDownloadFromAff() {
-window.open(AFFILIATE_URL, '_blank'); 
+window.open(AFFILIATE_URL, '_blank');
 closePopup();
-if (currentItem) {
-window.location.href = currentItem.drive_url;  
-}
+setTimeout(() => {
+if (currentItem) window.open(currentItem.drive_url, '_blank');
 showToast();
+}, 800);
 }
 
 function showToast() {
@@ -533,7 +532,7 @@ const CATEGORIES = [
 { name: 'Nhân sự', icon: '👥' },
 { name: 'Học tiếng trung', icon: '🇨🇳' },
 { name: 'Học tiếng anh', icon: '📣' },
-{ name: 'Plan du lịch', icon: '✈' },
+  { name: 'Plan du lịch', icon: '✈' },
 { name: 'Khác', icon: '📁' },
 ];
 
