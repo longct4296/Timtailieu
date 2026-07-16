@@ -1976,7 +1976,7 @@
     ],
     "type": "Drive",
     "size": "114 KB",
-    "category": "Học tiếng nhật",
+    "category": "Học tiếng Nhật",
     "drive_url": "https://drive.google.com/drive/u/0/folders/1jzXNZtmWH606X3mi4SbxJ-RjM-Lz0vQm?fbclid=IwY2xjawS6qsZleHRuA2FlbQIxMABicmlkETFCaWdINU1Sbjk5Z09HUXF2c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHtbgfaX0Io1lFGxJOmiSJifqsAC-LVE_1Dksicwciw8YvU1b7296rp0HqVvg_aem_ifUttEIvdYvitSj2opHA-w"
   },
   {
@@ -2163,7 +2163,7 @@
     ],
     "type": "Drive",
     "size": "114 KB",
-    "category": "Học tiếng nhật",
+    "category": "Học tiếng Nhật",
     "drive_url": "https://drive.google.com/drive/folders/14cvGKUh4Gu7ojd2JE6FzWL5hCTSFwhaz?fbclid=IwY2xjawS6qqZleHRuA2FlbQIxMABicmlkETFCaWdINU1Sbjk5Z09HUXF2c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHvIaGX8528XSXa3wiRz_4zd7S_TsfuboKWwJPnXxK7jryWIUKLaIcMNwnUvd_aem_kw4TRCVT9J4kflLIGhAzIA"
   },
   {
@@ -2231,5 +2231,82 @@
     "size": "114 KB",
     "category": "Học tiếng anh",
     "drive_url": "https://docs.google.com/spreadsheets/d/1qaKv1LaL32DhWcAyQtKHC5RDGUftmKrfw1XbX0NYns0/edit?gid=674702523#gid=674702523"
+  },
+  {
+    "id": 204,
+    "name": "Tiếng Nhật cho người mới bắt đầu",
+    "keywords": [
+      "tailieutiengnhatchonguoimoi"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng Nhật",
+    "drive_url": "https://drive.google.com/drive/folders/19yeA5LmqhzCFA17a96sNb8mg0k_xmuTD"
+  },
+  {
+    "id": 205,
+    "name": "Video tự học tiếng Trung",
+    "keywords": [
+      "videotuhoctiengtrung"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng trung",
+    "drive_url": "https://drive.google.com/drive/folders/14_qgmgytl_IB6msE3tLm34gaX7mlYJDL"
+  },
+  {
+    "id": 206,
+    "name": "Tiếng Nhật N1",
+    "keywords": [
+      "tiengnhatn1"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng Nhật",
+    "drive_url": "https://drive.google.com/drive/folders/1bz3nYLMK2bnMcIiOcApIh1VEuzxKtozg"
+  },
+  {
+    "id": 207,
+    "name": "Tiếng Nhật N2",
+    "keywords": [
+      "tiengnhatn2"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng Nhật",
+    "drive_url": "https://drive.google.com/drive/folders/1UaZFvNkHo5Rdndyclu8T7FQh4Qn7I062"
+  },
+  {
+    "id": 208,
+    "name": "Tiếng Nhật N3",
+    "keywords": [
+      "tiengnhatn3"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng Nhật",
+    "drive_url": "https://drive.google.com/drive/folders/1xpqVs-1UhrBGmLmIXuxWOm6BiZ5_AVd4"
+  },
+  {
+    "id": 209,
+    "name": "Tiếng Nhật N4",
+    "keywords": [
+      "tiengnhatn4"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng Nhật",
+    "drive_url": "https://drive.google.com/drive/folders/1zD_dBoFx-0drpb8ysROuesfSFeLwLxNZ"
+  },
+  {
+    "id": 210,
+    "name": "Tiếng Nhật N5",
+    "keywords": [
+      "tiengnhatn5"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng Nhật",
+    "drive_url": "https://drive.google.com/drive/folders/1WjRALCLIuTtXKvi7Y0vEzElR7it5mWBl"
   }
 ]
