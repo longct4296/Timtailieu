@@ -2308,5 +2308,16 @@
     "size": "114 KB",
     "category": "Học tiếng Nhật",
     "drive_url": "https://drive.google.com/drive/folders/1WjRALCLIuTtXKvi7Y0vEzElR7it5mWBl"
+  },
+  {
+    "id": 211,
+    "name": "Khóa học MOS",
+    "keywords": [
+      "khoahocmos"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Khác",
+    "drive_url": "https://drive.google.com/drive/folders/1Tbb_VR6T2Tku9ti57SYwFx0qnPQLurAR"
   }
 ]
