@@ -2319,5 +2319,38 @@
     "size": "114 KB",
     "category": "Khác",
     "drive_url": "https://drive.google.com/drive/folders/1Tbb_VR6T2Tku9ti57SYwFx0qnPQLurAR"
+  },
+  {
+    "id": 212,
+    "name": "Curriculum CFA Level 1 (full 10 môn)",
+    "keywords": [
+      "Curriculumlv1"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Kinh doanh",
+    "drive_url": "https://drive.google.com/drive/folders/1YPkOpi1pZHolK9wGmSmyY2RqeOqc1aGt"
+  },
+  {
+    "id": 213,
+    "name": "Tiếng Hàn giao tiếp cơ bản",
+    "keywords": [
+      "tienghangiaotiepcoban"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng Hàn",
+    "drive_url": "https://drive.google.com/file/d/1ZqMkSUl7AeQWZUjqYd_Zp-o3c79gKPqF/view"
+  },
+  {
+    "id": 214,
+    "name": "Tổng hợp tài liệu tiếng Pháp",
+    "keywords": [
+      "tonghoptailieutiengphap"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng Pháp",
+    "drive_url": "https://drive.google.com/drive/folders/1lGpinJfmf0_Us2zD4UM5XpFWflQDotrP"
   }
 ]
