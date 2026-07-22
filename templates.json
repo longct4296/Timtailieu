@@ -2517,5 +2517,49 @@
     "size": "114 KB",
     "category": "Edit video",
     "drive_url": "https://drive.google.com/drive/folders/1DO0YIa_szlo-i0URUwr8Zibygsvak5ub"
+  },
+  {
+    "id": 230,
+    "name": "Tài liệu tiếng Nhật học cả đời",
+    "keywords": [
+      "hoctiengnhatcadoi"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng Nhật",
+    "drive_url": "https://drive.google.com/file/d/1cSK4jCGzUrVBxoiiOeHFryTA3AXEClB1/view"
+  },
+  {
+    "id": 231,
+    "name": "Sổ tay từ vựng N3",
+    "keywords": [
+      "tuvungn3"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng Nhật",
+    "drive_url": "https://drive.google.com/file/d/1kn7xyk4SC1KEHW5awYKmqKThiVYOE-w9/view"
+  },
+  {
+    "id": 232,
+    "name": "Lộ trình ôn thi TOEIC 0-900",
+    "keywords": [
+      "lotrinhonthitoeic"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng anh",
+    "drive_url": "https://drive.google.com/file/d/0BxIhA62dUzyxc0ZxMk1aSzloZXc/view?resourcekey=0-jfXpYUasSNtTEuOboPHeoQ"
+  },
+  {
+    "id": 233,
+    "name": "Tài liệu NCKH Trí tuệ nhân tạo (Artificial Intelligence) tổng hợp (open source)",
+    "keywords": [
+      "trituenhantao"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "AI",
+    "drive_url": "https://drive.google.com/drive/folders/1iziuJJ8XrtVuDQUAw7C0oWYLonXgxoRI"
   }
 ]
